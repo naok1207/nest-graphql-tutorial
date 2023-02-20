@@ -28,3 +28,5 @@ source: exit status 1
 Error: Service "postgresql" failed to stop
 source: exit status 1
 ```
+
+[参考](https://zenn.dev/rince/articles/50a66241d04f0b)
